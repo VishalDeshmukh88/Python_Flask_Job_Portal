@@ -3,12 +3,12 @@ Simple Web app using flask and Sqlite
 
 Dependicies:
 
-pip install flask
-pip install wtform
-pip install flask_login
-pip install flask_sqlalchemy 
-pip install flask_bcrypt
-
+pip install flask\n
+pip install wtform\n
+pip install flask_login\n
+pip install flask_sqlalchemy\n 
+pip install flask_bcrypt\n
+\n
 run main.py 
 
 
